@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"os"
 
+	pe "github.com/lz520520/go-pe"
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 	"www.velocidex.com/golang/binparsergen/reader"
-	pe "www.velocidex.com/golang/go-pe"
 )
 
 var (

@@ -7,8 +7,8 @@ import (
 	"os"
 
 	"github.com/Velocidex/pkcs7"
+	pe "github.com/lz520520/go-pe"
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
-	pe "www.velocidex.com/golang/go-pe"
 )
 
 var (
